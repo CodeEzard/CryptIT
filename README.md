@@ -1,6 +1,4 @@
 # CryptIT - Advanced Web 3.0 Blockchain Platform
-![CryptIT](https://i.ibb.co/DVF4tNW/image.png)
-
 ## 🌟 Overview
 CryptIT is a revolutionary Web 3.0 blockchain application that enables secure cryptocurrency transactions with an intuitive user interface. Built with modern technologies and best practices, this platform demonstrates the power of decentralized finance.
 
@@ -169,51 +167,6 @@ export const contractAddress = "YOUR_DEPLOYED_CONTRACT_ADDRESS";
 export const contractABI = abi.abi;
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Issues**: Report bugs via GitHub Issues
-- **Documentation**: Check the `docs/` folder
-- **Community**: Join our Discord server
-- **Email**: support@cryptit.finance
-
-## 🏆 Acknowledgments
-
-- Ethereum Foundation for blockchain infrastructure
-- OpenZeppelin for security standards
-- Tailwind CSS for styling framework
-- Hardhat for development environment
-- The Web3 community for inspiration
-
-## 📊 Stats
-
-- **Smart Contract Size**: Optimized for gas efficiency
-- **Frontend Bundle**: < 500KB gzipped
-- **Test Coverage**: 100%
-- **Security Score**: A+
-
----
-
-**Built with ❤️ for the Web3 community in 2025**
-
-### 🔮 Future Roadmap
-
-- [ ] Multi-chain support (Polygon, BSC)
-- [ ] NFT integration
-- [ ] DeFi yield farming features
-- [ ] Mobile app development
-- [ ] Advanced analytics dashboard
-- [ ] Governance token implementation
 
 **Experience the future of finance with CryptIT! 🚀**
